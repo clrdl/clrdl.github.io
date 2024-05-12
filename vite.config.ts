@@ -7,7 +7,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: CONFIG.base || '/',
+  base: '/', // Correct base path for a user/organization page
   plugins: [
     react(),
     createHtmlPlugin({

@@ -20,7 +20,6 @@ import { BG_COLOR } from '../constants';
 import AvatarCard from './avatar-card';
 import DetailsCard from './details-card';
 import SkillCard from './skill-card';
-import ExperienceCard from './experience-card';
 import EducationCard from './education-card';
 import CertificationCard from './certification-card';
 import { GithubProject } from '../interfaces/github-project';

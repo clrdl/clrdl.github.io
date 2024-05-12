@@ -33,7 +33,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of [Your Name]',
+    title: 'Portfolio of Jisoo',
     description: 'A brief description about your portfolio.',
     imageURL: 'https://example.com/image.png', // URL to an image to be used in SEO
   },

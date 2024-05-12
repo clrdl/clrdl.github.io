@@ -27,7 +27,7 @@ const IntroductionCard: React.FC = () => {
     return <div>Introduction data is not available.</div>;
   }
 
-  const { name, title, description, contact } = introduction;
+  const { name, description, contact } = introduction;
 
   const loading = false; // Set this to true if you want to show skeleton loading
 
